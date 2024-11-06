@@ -5,7 +5,7 @@ Here are the Server-Files for a Minecraft Fabric Server to run the "Aged" Modpac
 
 ## Setup Tutorial
 - Rent or set up an Minecraft Fabric Server with the version 1.20.1
-- copy the files that are in the Files Tab and insert them under SERVER-NAME-FOLDER -> Fabric  ↲
+- copy the files that are in the Release Tab and insert them under SERVER-NAME-FOLDER -> Fabric  ↲
 ![Server Folders](https://github.com/user-attachments/assets/e77f2c59-1511-48a2-8723-b92b17952b86)
 - Set up the Aged Modpack on the client-side
 
